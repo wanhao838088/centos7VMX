@@ -1,6 +1,8 @@
 ##  centos虚拟机
 
-#### VMware直接解压缩打开,免安装 免配置 带jdk8 tomcat maven git jenkins已上传百度云 
+#### 使用VMware直接打开解压缩后的.vmx结尾的文件,就能成功导入虚拟机,
+
+#### 免安装 免配置 带jdk8 tomcat maven git jenkins已上传百度云 
 
 链接：https://pan.baidu.com/s/1SZSbtl72tYYxkF3IZeqelQ 密码：v8v9
 
